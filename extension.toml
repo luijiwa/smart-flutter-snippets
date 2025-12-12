@@ -1,8 +1,8 @@
-id = "flutter-snippets"
-name = "Flutter Snippets"
-version = "0.2.0"
+id = "smart-flutter-snippets"
+name = "Smart Flutter Snippets"
+version = "0.1.0"
 schema_version = 1
-authors = ["lsdanii <luisdanieldlcg@gmail.com>"]
+authors = ["Artem Luzin <me@luijiwa.com>"]
 description = "A collection of Flutter snippets to improve your development speed."
-repository = "https://github.com/luisdanieldlcg/flutter-snippets"
+repository = "https://github.com/luijiwa/smart-flutter-snippets"
 snippets = "./snippets/dart.json"
