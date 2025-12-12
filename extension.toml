@@ -1,8 +1,8 @@
 id = "smart-flutter-snippets"
 name = "Smart Flutter Snippets"
-version = "0.1.0"
+version = "0.2.0"
 schema_version = 1
 authors = ["Artem Luzin <me@luijiwa.com>"]
-description = "A collection of Flutter snippets to improve your development speed."
+description = "A comprehensive collection of 50+ Flutter and Dart code snippets to boost your development speed in Zed Editor. Works perfectly with the official Dart extension."
 repository = "https://github.com/luijiwa/smart-flutter-snippets"
-snippets = "./snippets/dart.json"
+snippets = ["./snippets/dart.json", "./snippets/flutter.json"]
